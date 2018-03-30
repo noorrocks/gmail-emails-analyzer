@@ -72,7 +72,7 @@ From the data you collected and the concepts you learned in the class (Numpy and
 
 * [gmail_data_analyzer.ipynb](https://github.com/noorrocks/gmail-emails-analyzer/blob/master/gmail_data_analyzer.ipynb)
 
-### Installing
+## Installing
 
 This project requires installation of latest Anaconda distribution.
 
