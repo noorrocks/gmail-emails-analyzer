@@ -47,6 +47,10 @@ your_function(path='path_where_emails_are_backedup', field='to', pattern='regexp
 
 Should return all the email ids in the “to” field. We’ll be passing appropriate regex pattern for matching emails.
 
+## Deliverable
+
+* [gmail_analyzer.ipynb](https://github.com/noorrocks/gmail-emails-analyzer/blob/master/gmail_analyzer.ipynb)
+
 ---
 
 ## **Part 2:** 
@@ -64,6 +68,9 @@ From the data you collected and the concepts you learned in the class (Numpy and
 3. To whom have you sent the maximum number of emails?
 4. On the basis of above two analysis decide who is your closest buddy. You are free to derive your own formula for choosing your closest buddy. One of the criteria can be the person whom you converse frequently.
 
+## Deliverable
+
+* [gmail_data_analyzer.ipynb](https://github.com/noorrocks/gmail-emails-analyzer/blob/master/gmail_data_analyzer.ipynb)
 
 ### Installing
 
